@@ -1,3 +1,3 @@
 public class AddTest {
-    String str="add";
+    String str="adder";
 }
